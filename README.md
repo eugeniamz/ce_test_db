@@ -6,15 +6,21 @@ As Support or CSM there will be a need to test customer issues and this could be
 - A JSON file is an exported dashboard that has several charts and it is the expected results. 
 
 
-## Install
+## Install if you want to use Virtual Env 
 ```bash
 # setup a virtual env
-virtualenv env -p -python3
+virtualenv env -p /usr/bin/python3
 source env/bin/activate
 
 # install required deps
 pip install -r requirements.txt
 
+# start notebook server
+jupyter notebook
+```
+
+## If you don't want to use virtual envirment just open the Notebook 
+```
 # start notebook server
 jupyter notebook
 ```
