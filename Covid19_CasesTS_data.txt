@@ -1,3 +1,4 @@
+province|country|latitude|longitude|date_trunc|confirmed|deaths|recovered|last_confirmed|new_cases|new_deaths
 |Afghanistan|33.93911|67.709953|2020-03-23 00:00:00|40|1|1||40|1
 |Afghanistan|33.93911|67.709953|2020-03-24 00:00:00|74|1|1|40|34|0
 |Afghanistan|33.93911|67.709953|2020-03-25 00:00:00|84|2|2|74|10|1
@@ -35058,3 +35059,4 @@ Zhytomyr Oblast|Ukraine|50.2547|28.6587|2020-06-05 00:00:00|855|15|482|833|22|1
 |occupied Palestinian territory|31.9522|35.2332|2020-03-15 00:00:00|0|0|0|0|0|0
 |occupied Palestinian territory|31.9522|35.2332|2020-03-16 00:00:00|0|0|0|0|0|0
 |occupied Palestinian territory|31.9522|35.2332|2020-03-17 00:00:00|0|0|0|0|0|0
+(35060 rows)
