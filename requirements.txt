@@ -2,5 +2,3 @@ pandas
 sqlalchemy
 ipython
 jupyter
-mysqlclient 
-pymssql
